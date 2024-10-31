@@ -1,0 +1,11 @@
+ 1	1	0	bitXor
+ 2	2	0	byteSwap
+ 3	3	0	logicalShift
+ 4	4	0	float_i2f
+ 4	4	0	leftBitCount
+ 4	4	0	floatPower2
+ 4	4	0	floatScale2
+ 3	3	0	reverse
+ 2	2	0	samesign
+ 4	4	0	logtwo
+ 3	3	0	float64_f2i
